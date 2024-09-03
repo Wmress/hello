@@ -1,7 +1,14 @@
+/**
+ * Author: Ermias Wolde
+ *
+ */
+
+#include <stdlib.h>
 #include <stdio.h>
 
-int main()
+int main(int argc, char **argv)
 {
-    printf("Ermias Wolde");
+    printf("Ermias Wolde!!!\n");
+    printf("Computer Science\n");
     return 0;
 }
